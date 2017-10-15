@@ -1,1 +1,1 @@
-# sweeper
+# MineSweeper
